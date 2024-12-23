@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there! I'm Carlos San Millán Carpintero
 
-<!--
-**carsanmilcar/carsanmilcar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Physicist | Programmer | Music Enthusiast**  
+Exploring the intersection between physics, data science, and creative coding.
 
-Here are some ideas to get you started:
+## 🛠️ **Skills and Technologies:**  
+- Python, NumPy, Pandas, PyTorch, scikit-learn  
+- DMX Lighting & MIDI Integration  
+- Data Analysis & Visualization  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 **Current Projects:**  
+- 🎧 **SynkroDMX:** DMX lighting control with Spotify integration.  
+- 🌍 **Global Infrastructure Analysis:** Processing infrastructure data with `.zarr` files.  
+
+## 🌐 **Find me here:**  
+- [ORCID](https://orcid.org/0000-0001-7506-5552)  
+- [LinkedIn](https://linkedin.com/in/carlos-san-mill%C3%A1n-carpintero-7a1428124)  
+
+Let's collaborate and build something amazing! 🚀
